@@ -20,3 +20,15 @@ to export an image:
 to export a video:
 
 npm i @ffmpeg-installer/ffmpeg --global
+
+then run on termianl on same directory
+
+$ canvas-sketch sketch-03.js --output=output/03 --stream
+
+---
+
+using a custom handler / slider through external API:
+
+tweakpane -
+
+npm i tweakpane
