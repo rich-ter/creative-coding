@@ -6,3 +6,11 @@ to do that: npm i canvas-sketch-cli -g
 
 To create a new sketch from the library use:
 canvas-sketch nameofyourfile.js --new
+
+to install the utility functions for the canvas-sketch
+
+npm i canvas-sketch-util
+
+to run the server of the script just call the file name i.e.
+
+canvas-sketch nameofyourfile.js
