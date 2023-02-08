@@ -14,3 +14,9 @@ npm i canvas-sketch-util
 to run the server of the script just call the file name i.e.
 
 canvas-sketch nameofyourfile.js
+
+to export an image:
+
+to export a video:
+
+npm i @ffmpeg-installer/ffmpeg --global
