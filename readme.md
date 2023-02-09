@@ -13,6 +13,14 @@ to install the utility functions for the canvas-sketch
 
 npm i canvas-sketch-util
 
+---
+
+in order to change the location where the drawing can be saved then run
+
+canvas-sketch tutorial1.js --output=output
+
+on the file and after pressing control shift S then the drawing will be saved in the new directory called output.
+
 to run the server of the script just call the file name i.e.
 
 canvas-sketch nameofyourfile.js
@@ -39,3 +47,4 @@ npm i tweakpane
 
 DESIGNS:
 ![Alt text](./vanilla js\sketches\0317.png?raw=true "Title")
+C:\Users\User\GitHub Projects\p5js\vanilla js\sketches\0317.png
