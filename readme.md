@@ -38,4 +38,4 @@ npm i tweakpane
 ---
 
 DESIGNS:
-![Alt text](vanilla js\sketches\0317.png?raw=true "Title")
+![Alt text](./vanilla js\sketches\0317.png?raw=true "Title")
