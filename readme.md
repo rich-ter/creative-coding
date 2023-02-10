@@ -46,5 +46,16 @@ npm i tweakpane
 ---
 
 DESIGNS:
+
 ![Alt text](./vanilla js\sketches\0317.png?raw=true "Title")
+
 C:\Users\User\GitHub Projects\p5js\vanilla js\sketches\0317.png
+
+![Alt text](/vanilla js\sketches\0317.png "Optional title")
+
+<img
+  src="/vanilla js\sketches\0317.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
