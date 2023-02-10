@@ -47,12 +47,12 @@ npm i tweakpane
 
 DESIGNS:
 
-![Alt text](./vanilla js\sketches\0317.png?raw=true "Title")
+P5JS 
 
-C:\Users\User\GitHub Projects\p5js\vanilla js\sketches\0317.png
 
-![Alt text](/vanilla js\sketches\0317.png "Optional title")
+Vanila JS
 
+**1. Abstract dot connectors **
 <img
   src="/vanilla js\sketches\0317.png"
   alt="Alt text"
