@@ -57,5 +57,5 @@ Vanila JS
   src="/vanilla js\sketches\0317.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 150px">
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
 
