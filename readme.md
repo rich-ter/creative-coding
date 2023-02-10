@@ -1,53 +1,34 @@
-INSTRUCTIONS:
+# INSTRUCTIONS:
 
-files inserted into the p5js directory use p5js library
 
-files on the vanilla js directory use vanilla js in addition to an npm module called canvas-sketch
+## P5 JS DESIGNS:
 
-to do that: npm i canvas-sketch-cli -g
 
-To create a new sketch from the library use:
+## VANILLA JS DESIGNS:
+
+### The designs on this directory are through vanilla js and the npm module canvas-sketch. In order for them to work install the following modules:
+npm i canvas-sketch-cli -g && canvas-sketch-util
+
+### Creating a new canva sketch:
 canvas-sketch nameofyourfile.js --new
 
-to install the utility functions for the canvas-sketch
-
-npm i canvas-sketch-util
-
----
-
-in order to change the location where the drawing can be saved then run
-
-canvas-sketch tutorial1.js --output=output
-
-on the file and after pressing control shift S then the drawing will be saved in the new directory called output.
-
-to run the server of the script just call the file name i.e.
-
+### To run / re-run the server use:
 canvas-sketch nameofyourfile.js
 
-to export an image:
+### To change the location of where the sketches get saved:
+canvas-sketch yourfilename.js --output=output [WHERE OUTPUT IS THE DESIRED DIRECTORY TO BE CREATED]
+To save your sketches on the specified directory above, press Ctrl + Shift + S 
 
-to export a video:
-
+### If you want to save a video install:
 npm i @ffmpeg-installer/ffmpeg --global
 
-then run on termianl on same directory
+### Then run:
+canvas-sketch youranimatedfilename.js --output=output/03 --stream
 
-$ canvas-sketch sketch-03.js --output=output/03 --stream
-
----
-
-using a custom handler / slider through external API:
-
-tweakpane -
-
+### In order to use the handle module, install:
 npm i tweakpane
 
----
-
-DESIGNS:
-
-P5JS 
+## THREE JS DESIGNS:
 
 
 Vanila JS
