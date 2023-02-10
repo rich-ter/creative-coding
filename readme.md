@@ -23,7 +23,7 @@ To save your sketches on the specified directory above, press Ctrl + Shift + S
 npm i @ffmpeg-installer/ffmpeg --global
 
 ### Then run:
-canvas-sketch youranimatedfilename.js --output=output/03 --stream
+`canvas-sketch youranimatedfilename.js --output=output/03 --stream`
 
 ### In order to use the handle module, install:
 npm i tweakpane
