@@ -34,7 +34,7 @@ To save your sketches on the specified directory above, press Ctrl + Shift + S
 
 # OUTCOME
 
-**1. Abstract dot connectors **
+__1. Abstract dot connectors __
 
 
 <img
